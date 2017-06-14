@@ -1,0 +1,7 @@
+{
+  "name": "where-am-i-rkt",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:ebriand/where-am-i-rkt.git",
+  "license": "MIT"
+}
